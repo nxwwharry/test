@@ -22,7 +22,7 @@ public class threeway {
 	@Test
 	public void waytwo() {
 		//fail("Not yet implemented");
-		assertEquals("2", String.valueOf("2"));
+		assertEquals("3", String.valueOf("3"));
 	}
 
 	@Test
